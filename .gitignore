@@ -1,0 +1,5 @@
+# Ignore all .config files
+*.config
+
+#Ignore all .yml files
+*.yml
